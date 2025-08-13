@@ -13,8 +13,6 @@
       Currently working as a freelancer, I focus on crafting quality technical solutions with particular attention to maintainability and best practices. I believe in writing clean, understandable code that stands the test of time.
   </p>
 </section>
-</br>
-
 
 <section>
 </br>
