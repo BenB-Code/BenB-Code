@@ -3,6 +3,11 @@
   </h1>
 </section>
 
+<div align="center">
+  </br>
+  <img src="images/logo_250x180.png" width="100">
+</div>
+  
 <section align="center">
   <h3 align="center">👋 Welcome to my Github page</h3>
   <p style="text-align:center;font-size:1.1rem;font-style:italic;">Passionate <b><i>Full-Stack Developer</i></b> from <img
@@ -63,3 +68,7 @@
 
   </div>
 </section>
+
+</br>
+</br>
+
