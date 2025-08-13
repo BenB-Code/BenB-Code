@@ -5,7 +5,7 @@
 
 <div align="center">
   </br>
-  <img src="images/logo_250x180.png" width="100">
+  <img src="images/logo_250x180.png" width="125">
 </div>
   
 <section align="center">
@@ -68,7 +68,3 @@
 
   </div>
 </section>
-
-</br>
-</br>
-
