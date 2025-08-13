@@ -4,7 +4,7 @@
 </section>
 
 <div align="center">
-  <h4>🔥Open for work🔥</h4>
+  <h3>🔥Open for work🔥</h3>
   <img src="images/logo_250x180.png" width="125">
   </br>
   </br>
