@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white">
     <img src="https://img.shields.io/badge/-K8s-326ce5?style=flat-square&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
+    <img src="https://img.shields.io/badge/-Sentry-331f58?style=flat-square&logo=eslint&logoColor=white">
     <img src="https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=Jasmine&logoColor=white">
     <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white">
