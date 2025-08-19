@@ -64,9 +64,10 @@
   <h3 align="center">📫 Contact</h3>
   <div align="center">
     
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.bats.dev@gmail.com)
+[![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=Malt&logoColor=white)](https://www.malt.fr/profile/benjaminbats)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benjamin-bats-200464165/)
 [![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BenB-Code)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.bats.dev@gmail.com)
 
   </div>
 </section>
