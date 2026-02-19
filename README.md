@@ -12,10 +12,7 @@
   
 <section align="center">
   <h3 align="center">👋 Welcome to my Github page</h3>
-  <p style="text-align:center;font-size:1.1rem;font-style:italic;">Passionate <b><i>Freelance Full-Stack Developer</i></b> from <img
-      src="https://camo.githubusercontent.com/7505d7ae09f3766312b99ad1301588e602bfbce4b8a85028620f8a653df91529/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67"
-      width="13" data-canonical-src="https://cdn-icons-png.flaticon.com/512/197/197560.png" style="max-width: 100%;">
-      Bordeaux with <b><i>5 years of experience</i></b> building robust and scalable web applications.
+  <p style="text-align:center;font-size:1.1rem;font-style:italic;">Passionate <b><i>Freelance Full-Stack Developer</i></b> from Bordeaux with <b><i>5 years of experience</i></b> building robust and scalable web applications.
       </br>
       Currently working as a <b><i>freelancer</i></b>, I focus on crafting quality technical solutions with particular attention to maintainability and best practices. I believe in writing clean, understandable code that stands the test of time.
   </p>
